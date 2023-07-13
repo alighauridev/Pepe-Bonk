@@ -43,9 +43,11 @@ const Banner = () => {
               <p>CA: 0x559458f6ece2944533b4495b90d2c7b593fe5b90</p>
             </div>
             <div className="content">
-              <a href="#">TELEGRAM </a>
               <a target="blank_" href="#">
                 BUY NOW
+              </a>
+              <a href="https://t.me/pepetheftauto" target="blank_">
+                TELEGRAM{" "}
               </a>
             </div>
           </div>
