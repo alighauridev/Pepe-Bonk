@@ -1,5 +1,8 @@
 /* @import "./media.scss"; */
-
+main {
+  position: relative;
+  overflow: hidden;
+}
 .bac-main {
   position: relative;
 }
