@@ -24,6 +24,7 @@ const Footer = () => {
             financial return. There is no formal team or roadmap. the coin is
             completely useless and for entertainment purposes only.
           </p>
+          <span>© 2023 by PTA. All rights reserved!</span>
         </div>
       </footer>
     </>
