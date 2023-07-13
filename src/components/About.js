@@ -22,7 +22,7 @@ const About = () => {
               this early?
             </p>
             <p>PepeWood awaits us. But this time, Pepe is going BONKERS!</p> */}
-            <a href="#">BIGGEST ETH STEALTH LAUNCH ABOUT TO HAPPEN</a>
+            {/* <a href="#">BIGGEST ETH STEALTH LAUNCH ABOUT TO HAPPEN</a> */}
           </div>
         </div>
       </section>
