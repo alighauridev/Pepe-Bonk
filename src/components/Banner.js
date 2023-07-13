@@ -40,7 +40,7 @@ const Banner = () => {
             <div className="heading">
               <h1>PEPE THEFT AUTO THE MEME COIN THAT STEALS THE SHOW</h1>
 
-              <p>CA: 0x559458f6ece2944533b4495b90d2c7b593fe5b90</p>
+              <p>CA:</p>
             </div>
             <div className="content">
               <a target="blank_" href="#">
