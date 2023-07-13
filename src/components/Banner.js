@@ -2,7 +2,7 @@ import React, { useEffect, useRef } from "react";
 import { Parallax } from "react-parallax";
 import "../scss/banner.scss";
 import { MdKeyboardArrowRight } from "react-icons/md";
-import bannerImg from "../assests/banner-img.jpeg";
+import bannerImg from "../assests/banner-img-removebg-preview.png";
 const Banner = () => {
   const imageRef = useRef(null);
 
