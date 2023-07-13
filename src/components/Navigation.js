@@ -32,7 +32,7 @@ const Navigation = () => {
       <header>
         <div className="container">
           <a href="#">
-            <h1>$PEPEBONK</h1>
+            <h1>$PEPETHEFTAUTO</h1>
           </a>
         </div>
       </header>
