@@ -14,7 +14,7 @@ const Tokenomics = () => {
               <h1>TOKENOMICS</h1>
             </div>
             <p>
-              <p>Contract Address</p> 0x559458F6eCE2944533B4495b90d2c7B593Fe5b90
+              <p>Contract Address</p>
             </p>
             <p>
               Total Supply
