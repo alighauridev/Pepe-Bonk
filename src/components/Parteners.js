@@ -1,9 +1,9 @@
 import React from "react";
-import i1 from "../assests/icon.1.webp";
-import i2 from "../assests/icon.2.webp";
-import i3 from "../assests/icon.3.webp";
-import i4 from "../assests/icon.4.webp";
-import i5 from "../assests/icon.5.webp";
+import i1 from "../assests/icons/icon-1.png";
+import i2 from "../assests/icons/icon-2.png";
+import i3 from "../assests/icons/icon-3.svg";
+import i4 from "../assests/icons/icon-4.png";
+import i5 from "../assests/icons/icon-5.png";
 import "../scss/parteners.scss";
 const Parteners = () => {
   return (
@@ -14,10 +14,10 @@ const Parteners = () => {
             <h1> SOCIALS</h1>
           </div>
           <div className="content">
-            <a href="#">
+            <a href="https://t.me/pepetheftauto" target="blank_">
               <img src={i1} alt="" />
             </a>
-            <a href="#">
+            <a href="https://twitter.com/pepetheftauto" target="blank_">
               <img src={i2} alt="" />
             </a>
             <a href="#">

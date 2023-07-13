@@ -18,17 +18,17 @@ const Tokenomics = () => {
             </p>
             <p>
               Total Supply
-              <span>4,206,900</span>
+              <span>100,000,000 $PTA</span>
             </p>
 
             <p>
               Taxes
-              <span>2%</span>
+              <span> 2%</span>
             </p>
 
             <p>
               Security
-              <span>Ownership Renounced</span>
+              <span> Ownership Renounced</span>
             </p>
           </div>
         </div>

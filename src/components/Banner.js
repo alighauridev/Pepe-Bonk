@@ -2,7 +2,7 @@ import React, { useEffect, useRef } from "react";
 import { Parallax } from "react-parallax";
 import "../scss/banner.scss";
 import { MdKeyboardArrowRight } from "react-icons/md";
-import bannerImg from "../assests/bg/banner-bac.webp";
+import bannerImg from "../assests/banner-img.jpeg";
 const Banner = () => {
   const imageRef = useRef(null);
 
@@ -38,14 +38,14 @@ const Banner = () => {
         <section id="banner">
           <div className="container">
             <div className="heading">
-              <h1>THIS TIME, PEPE IS GOING BONKERS.</h1>
+              <h1>PEPE THEFT AUTO THE MEME COIN THAT STEALS THE SHOW</h1>
 
               <p>CA: 0x559458f6ece2944533b4495b90d2c7b593fe5b90</p>
             </div>
             <div className="content">
-              <a href="#">Telegram </a>
+              <a href="#">TELEGRAM </a>
               <a target="blank_" href="#">
-                Buy Now
+                BUY NOW
               </a>
             </div>
           </div>

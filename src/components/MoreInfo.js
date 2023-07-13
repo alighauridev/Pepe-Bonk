@@ -11,14 +11,15 @@ const MoreInfo = () => {
           </div>
           <div className="content">
             <div className="heading">
-              <h1>INTRODUCING PEPE BONKERS</h1>
+              <h1>WELCOME TO THE WORLD OF PEPE THEFT AUTO </h1>
             </div>
             <div className="para">
               <p>
-                <b>$PEPEBONK</b> is not your usual memecoin. We are a
-                milestone-oriented community project.
+                <b>$PTA</b> isn't your run-of-the-mill memecoin. It's a
+                community-driven initiative, rooted in ambition and bound by
+                clear objectives.
               </p>
-              <p>
+              {/* <p>
                 Because we are chads and we want to bring value to the degen
                 community, holders with over 0.3% of supply will have acces to
                 the private PepeWood chat, where we will mirror all major paid
@@ -31,7 +32,7 @@ const MoreInfo = () => {
               <p>
                 So get your ETH ready, hodl <b>$PEPEBONK</b> and enjoy the ride
                 towards 1000x. This is your time.
-              </p>
+              </p> */}
             </div>
           </div>
         </div>
