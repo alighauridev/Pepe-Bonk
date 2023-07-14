@@ -20,7 +20,7 @@ const Parteners = () => {
             <a href="https://twitter.com/pepetheftauto" target="blank_">
               <img src={i2} alt="" />
             </a>
-            <a href="#">
+            <a href="https://www.dextools.io/app/en/ether/pair-explorer/0x4f38eec9da219aa9f7bfe2d33995ec1747781db7"  target="blank_">
               <img src={i3} alt="" />
             </a>
             <a href="#">

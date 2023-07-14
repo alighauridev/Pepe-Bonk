@@ -40,10 +40,10 @@ const Banner = () => {
             <div className="heading">
               <h1>PEPE THEFT AUTO THE MEME COIN THAT STEALS THE SHOW</h1>
 
-              <p>CA:</p>
+              <p>CA:0x87327C89f1ABb682140063192f1c8AA6be8B347B</p>
             </div>
             <div className="content">
-              <a target="blank_" href="#">
+              <a target="blank_" href="https://app.uniswap.org/#/swap?outputCurrency=0x87327c89f1abb682140063192f1c8aa6be8b347b&chain=ethereum">
                 BUY NOW
               </a>
               <a href="https://t.me/pepetheftauto" target="blank_">
