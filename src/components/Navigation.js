@@ -27,6 +27,9 @@ const Navigation = () => {
     setNavToggler(!navToggler);
     setNavColor(!navColor);
   }
+
+  const arr = [1, 2, 3, 4];
+
   return (
     <>
       <header>

@@ -8,11 +8,13 @@
 
 .banner__wrapper {
   position: relative;
-img{
- 
-  width: 100%;
-  transform: scale(1.14) translateY(63px);
-}
+
+  img {
+
+    width: 100%;
+
+  }
+
   #banner {
     align-items: center;
     display: flex;
@@ -25,6 +27,7 @@ img{
     bottom: 0;
     width: 100%;
     height: 100%;
+
     @include md {
       position: unset;
     }

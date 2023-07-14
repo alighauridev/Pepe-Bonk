@@ -1,5 +1,5 @@
 import React from "react";
-import about from "../assests/about-img.webp";
+import about from "../assests/8.jpg";
 import "../scss/about.scss";
 const About = () => {
   return (
